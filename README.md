@@ -1,4 +1,4 @@
-# Task22
+# Task21
 Create a Pseudo-distributed mode hbase cluster, with local storage. 
 
 Create a table.   
